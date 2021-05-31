@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available [here.](https://github.com/jyotijoey?tab=repositories)
 
-- 📫 You can reache me out at **jburnwal5@gmail.com**
+- 📫 You can reach out to me at **jburnwal5@gmail.com**
 
 - ⚡ Fun fact **I am a management student with no background of coding.**
 
