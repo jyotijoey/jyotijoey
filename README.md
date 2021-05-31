@@ -4,7 +4,7 @@
 ![banner](https://t3.ftcdn.net/jpg/04/17/82/36/240_F_417823664_STp2EgYgBCn2byrVVEhyERbkm1UaA4rT.jpg)
 
 
-- 👨‍💻 All of my projects are available [here](https://github.com/jyotijoey)
+- 👨‍💻 All of my projects are available [here](https://github.com/jyotijoey?tab=repositories)
 
 - 📫 How to reach me **jburnwal5@gmail.com**
 
