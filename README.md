@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jyoti Burnwal</h1>
-<h3 align="center">Self-Taught Programmer</h3>
+<h3 align="center">Self-Taught Programmer || Building My Story</h3>
 
-![banner](https://t3.ftcdn.net/jpg/04/07/87/64/240_F_407876427_sJmlkCZZVljXKSDUA0tWjQrnJP4aN8u5.jpg)
+![banner](https://github.com/jyotijoey/jyotijoey/blob/main/img.PNG)
 
 
 - 👨‍💻 All of my projects are available [here.](https://github.com/jyotijoey?tab=repositories)
 
-- 📫 How to reach me **jburnwal5@gmail.com**
+- 📫 You can reache me out at **jburnwal5@gmail.com**
 
 - ⚡ Fun fact **I am a management student with no background of coding.**
 
