@@ -3,7 +3,7 @@
 
 ![banner](https://github.com/jyotijoey/jyotijoey/blob/main/img.PNG)
 
-I can develop and deploy a fully functional, responsive web application from scratch using languages like ***HTML, JS and CSS***. I have built and will continue building my skills to be proficient at ***MERN stack development***. I have built 24 projects (and counting) using JS frameworks ***react.js*** and ***nodes.js*** combined with ***mongoDB*** database and ***express***, as per the project requirement. With my knowledge of ***hyper*** and multiple ***npm packages***, I can create add different features and functionality in my web based app and deploy it on platforms like ***firebase and heroku***.
+I can develop and deploy a fully functional web application from scratch using languages like ***HTML, JS and CSS***. I have built and will continue building my skills to be proficient at ***MERN stack development***. I have built 24 projects (and counting) using JS frameworks ***react.js*** and ***nodes.js*** combined with ***mongoDB*** database and ***express***, as per the project requirement. With my knowledge of ***hyper*** and multiple ***npm packages***, I can add different features and functionality in my web based app and deploy it on platforms like ***firebase and heroku***.
 
 Other significant libraries, tools and technologies that I have used in my projects:-
 
