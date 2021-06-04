@@ -21,18 +21,37 @@ Other significant libraries, tools and technologies that I have used in my proje
 
 Some of my significant projects are:-
 
--google clone
+-google clone:
+<br />
+Technologies used: html, css, react.js, firebase and used google API for the search rusults.
+I this project, I have created a Google single page search result clone. The user can search for something and get realtime search results.
+<br />
+
 -tik-tok clone
+<br />
+Technologies used: html, css, react.js, node.js, express, mongodb, material UI and created an API to fetch data from the database.
+<br />
+
 -whatsapp clone
+
 -amazon clone
+
 -video calling app
+
 -to-do list
+
 -RestFull API
+
 -weather app
+
 -daily diary
+
 -simon game
+
 -jerry game
+
 -drum kit
+
 
 ~ 👨‍💻 All of my projects are available [here.](https://github.com/jyotijoey?tab=repositories)
 
