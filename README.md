@@ -5,7 +5,7 @@
 
 I can develop and deploy a fully functional web application from scratch using languages like ***HTML, JS and CSS***. I have built and will continue building my skills to be proficient at ***MERN stack development***. I have built 24 projects (and counting) using JS frameworks ***react.js*** and ***nodes.js*** combined with ***mongoDB*** database and ***express***, as per the project requirement. With my knowledge of ***hyper*** and multiple ***npm packages***, I can add different features and functionality in my web based app and deploy it on platforms like ***firebase and heroku***.
 
-Other significant libraries, tools and technologies that I have used in my projects:-
+<h1>Other significant libraries, tools and technologies that I have used in my projects:-</h1>
 
 1. Socket.io to create a real-time video calling app and chat application.
 2. Pusher to create a real-time chat application without the use of js library.
@@ -19,38 +19,46 @@ Other significant libraries, tools and technologies that I have used in my proje
 10. Bootstrap, tailwind css and material UI to enhance frontend.
 11. jQuery to use and manipulate the DOM interface.
 
-Some of my significant projects are:-
+<h1>Some of my significant projects are:-</h1>
 
--google clone:
-<br />
-Technologies used: html, css, react.js, firebase and used google API for the search rusults.
-I this project, I have created a Google single page search result clone. The user can search for something and get realtime search results.
-<br />
+<ul> 
+  
+  <li>video calling app</li> <br />
+  <p>created a realtime video calling app using socket.io</p>
+  <p>used cors to make http calls</p>
+  <p>used hooks to dominate the functionality of the app</p>
+  
+<li>google clone:</li>
+    <p>created a realtime video calling app using socket.io</p>
+  <p>used cors to make http calls</p>
+  <p>used hooks to dominate the functionality of the app</p>
 
--tik-tok clone
-<br />
-Technologies used: html, css, react.js, node.js, express, mongodb, material UI and created an API to fetch data from the database.
-<br />
+<li>tik-tok clone</li>
 
--whatsapp clone
 
--amazon clone
+<li>whatsapp clone</li>
 
--video calling app
 
--to-do list
+<li>amazon clone</li>
 
--RestFull API
 
--weather app
 
--daily diary
+<li>to-do list</li>
 
--simon game
 
--jerry game
+<li>RestFull API</li>
 
--drum kit
+<li>weather app</li>
+
+<li>daily diary</li>
+
+<li>simon game</li>
+
+<li>jerry game</li>
+
+<li>drum kit</li>
+ 
+  </ul>
 
 
 ~ 👨‍💻 All of my projects are available [here.](https://github.com/jyotijoey?tab=repositories)
