@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jyoti Burnwal</h1>
 <h3 align="center">Self-Taught Programmer || Building My Story</h3>
 
-![banner](https://github.com/jyotijoey/jyotijoey/blob/main/img.PNG)
+<!-- ![banner](https://github.com/jyotijoey/jyotijoey/blob/main/img.PNG) -->
 
 I can develop and deploy a fully functional web application from scratch using languages like ***HTML, JS and CSS***. I have built and will continue building my skills to be proficient at ***MERN stack development***. I have built 24 projects (and counting) using JS frameworks ***react.js*** and ***nodes.js*** combined with ***mongoDB*** database and ***express***, as per the project requirement. With my knowledge of ***hyper*** and multiple ***npm packages***, I can add different features and functionality in my web based app and deploy it on platforms like ***firebase and heroku***.
 
@@ -34,24 +34,29 @@ I can develop and deploy a fully functional web application from scratch using l
   <p>Added snap and ticker functionality to improve UI</p>
   
 <li><h3>Google Clone</h3></li>
-  <p>A web-app that looks like google and gives search results like google</p>
+  <p>A web-app that looks like google and is hosted on firebase</p>
   <p>Used google API calls to get realtime search results</p>
   <p>Used JSX, hooks and props to create features and update numbers and time</p>
 
-<li>tik-tok clone</li>
+<li><h3>Whatsapp Clone<h3></li>
+  <p>A web based whatsapp clone that can be used to send and recieve messages</p>
+  <p>Used pusher and mongoDB to make it realtime and update the message box on the go</p>
+  <p>Used material-UI for adding icons on the front end</p>
+  
+  <li><h3>Amazon Clone</h3></li>
+  <p>An e-commerce web-app that has seperate products components. Each product can be added to the basket and bill is generated during checkout.</p>
+  <p>Used Stripe for adding a secure payment method</p>
+  <p>Used firebase for hosting the frontend and to authorise users to login </p>
 
-
-<li>whatsapp clone</li>
-
-
-<li>amazon clone</li>
-
+  <li><h3>RESTfull API</h3></li>
+  <p>A complete API setup that follows the guideline of REST</p>
+  <p>It can CREATE, READ, UPDATE and DELETE data</p>
 
 
 <li>to-do list</li>
 
 
-<li>RestFull API</li>
+
 
 <li>weather app</li>
 
