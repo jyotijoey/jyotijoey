@@ -3,9 +3,11 @@
 
 <!-- ![banner](https://github.com/jyotijoey/jyotijoey/blob/main/img.PNG) -->
 
-I can develop and deploy a fully functional web application from scratch using languages like ***HTML, JS and CSS***. I have built and will continue building my skills to be proficient at ***MERN stack development***. I have built 24 projects (and counting) using JS frameworks ***react.js*** and ***nodes.js*** combined with ***mongoDB*** database and ***express***, as per the project requirement. With my knowledge of ***hyper*** and multiple ***npm packages***, I can add different features and functionality in my web based app and deploy it on platforms like ***firebase and heroku***.
+I can develop and deploy a fully functional web application from scratch using languages like ***HTML, JS and CSS***. I have built and will continue building my skills to be proficient at ***MERN stack development***. I have built 20 projects (and counting) using JS frameworks ***react.js*** and ***nodes.js*** combined with ***mongoDB*** database and ***express***, as per the project requirement. With my knowledge of ***hyper*** and multiple ***npm packages***, I can add different features and functionality in my web based app and deploy it on platforms like ***firebase and heroku***.
 
-<h1>Other significant libraries, tools and technologies that I have used in my projects:-</h1>
+I am a quick learner and I have proved it by learning to code in a very short time span. I can pick any 
+
+<h1>Some of the significant libraries, tools and technologies that I have used in my projects:-</h1>
 
 1. Socket.io to create a real-time video calling app and chat application.
 2. Pusher to create a real-time chat application without the use of js library.
@@ -52,22 +54,12 @@ I can develop and deploy a fully functional web application from scratch using l
   <p>A complete API setup that follows the guideline of REST</p>
   <p>It can CREATE, READ, UPDATE and DELETE data</p>
 
+  <li>To-Do List</li>
+  <p>A list that can be created on the go</p>
+  <p></p>
+  <p></p>
 
-<li>to-do list</li>
-
-
-
-
-<li>weather app</li>
-
-<li>daily diary</li>
-
-<li>simon game</li>
-
-<li>jerry game</li>
-
-<li>drum kit</li>
- 
+  <li>Daily Diary</li>
   </ul>
 
 
