@@ -23,15 +23,20 @@ I can develop and deploy a fully functional web application from scratch using l
 
 <ul> 
   
-  <li>video calling app</li> <br />
-  <p>created a realtime video calling app using socket.io</p>
-  <p>used cors to make http calls</p>
-  <p>used hooks to dominate the functionality of the app</p>
+  <li><h3>Video Calling App</h3></li>
+  <p>Created a realtime video calling app using socket.io</p>
+  <p>Used cors to make http calls</p>
+  <p>Used hooks to dominate the functionality of the app</p>
   
-<li>google clone:</li>
-    <p>created a realtime video calling app using socket.io</p>
-  <p>used cors to make http calls</p>
-  <p>used hooks to dominate the functionality of the app</p>
+  <li><h3>Tik-Tok Clone</h3></li>
+  <p>A complete MERN stack build</p>
+  <p>Created the whole API from scratch</p>
+  <p>Added snap and ticker functionality to improve UI</p>
+  
+<li><h3>Google Clone</h3></li>
+  <p>A web-app that looks like google and gives search results like google</p>
+  <p>Used google API calls to get realtime search results</p>
+  <p>Used JSX, hooks and props to create features and update numbers and time</p>
 
 <li>tik-tok clone</li>
 
