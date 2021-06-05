@@ -27,32 +27,32 @@ I am a quick learner and I have proved it by learning to code in a very short ti
   
   <li><h3>Video Calling App</h3></li>
   <p>Created a realtime video calling app using socket.io</p>
-  <p>Used cors to make http calls</p>
-  <p>Used hooks to dominate the functionality of the app</p>
+  <p>Used cors to make http calls.</p>
+  <p>Used hooks to dominate the functionality of the app.</p>
   
   <li><h3>Tik-Tok Clone</h3></li>
-  <p>A complete MERN stack build</p>
-  <p>Created the whole API from scratch</p>
-  <p>Added snap and ticker functionality to improve UI</p>
+  <p>A complete MERN stack build.</p>
+  <p>Created the whole API from scratch.</p>
+  <p>Added snap and ticker functionality to improve UI.</p>
   
 <li><h3>Google Clone</h3></li>
-  <p>A web-app that looks like google and is hosted on firebase</p>
-  <p>Used google API calls to get realtime search results</p>
-  <p>Used JSX, hooks and props to create features and update numbers and time</p>
+  <p>A web-app that looks like google and is hosted on firebase.</p>
+  <p>Used google API calls to get realtime search results.</p>
+  <p>Used JSX, hooks and props to create features and update numbers and time.</p>
 
 <li><h3>Whatsapp Clone<h3></li>
-  <p>A web based whatsapp clone that can be used to send and recieve messages</p>
-  <p>Used pusher and mongoDB to make it realtime and update the message box on the go</p>
-  <p>Used material-UI for adding icons on the front end</p>
+  <p>A web based whatsapp clone that can be used to send and recieve messages.</p>
+  <p>Used pusher and mongoDB to make it realtime and update the message box on the go.</p>
+  <p>Used material-UI for adding icons on the front end.</p>
   
   <li><h3>Amazon Clone</h3></li>
   <p>An e-commerce web-app that has seperate products components. Each product can be added to the basket and bill is generated during checkout.</p>
-  <p>Used Stripe for adding a secure payment method</p>
-  <p>Used firebase for hosting the frontend and to authorise users to login </p>
+  <p>Used Stripe for adding a secure payment method.</p>
+  <p>Used firebase for hosting the frontend and to authorise users to login.</p>
 
   <li><h3>RESTfull API</h3></li>
-  <p>A complete API setup that follows the guideline of REST</p>
-  <p>It can CREATE, READ, UPDATE and DELETE data</p>
+  <p>A complete API setup that follows the guideline of REST.</p>
+  <p>It can CREATE, READ, UPDATE and DELETE data.</p>
 
 <!--   <li>To-Do List</li>
   <p>A list that can be created on the go</p>
