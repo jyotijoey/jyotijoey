@@ -5,7 +5,7 @@
 
 I can develop and deploy a fully functional web application from scratch using languages like ***HTML, JS and CSS***. I have built and will continue building my skills to be proficient at ***MERN stack development***. I have built 20 projects (and counting) using JS frameworks ***react.js*** and ***nodes.js*** combined with ***mongoDB*** database and ***express***, as per the project requirement. With my knowledge of ***hyper*** and multiple ***npm packages***, I can add different features and functionality in my web based app and deploy it on platforms like ***firebase and heroku***.
 
-I am a quick learner and I have proved it by learning to code in a very short time span. I can pick any 
+I am a quick learner and I have proved it by learning to code in a very short time span. 
 
 <h1>Some of the significant libraries, tools and technologies that I have used in my projects:-</h1>
 
@@ -54,13 +54,13 @@ I am a quick learner and I have proved it by learning to code in a very short ti
   <p>A complete API setup that follows the guideline of REST</p>
   <p>It can CREATE, READ, UPDATE and DELETE data</p>
 
-  <li>To-Do List</li>
+<!--   <li>To-Do List</li>
   <p>A list that can be created on the go</p>
   <p></p>
   <p></p>
 
   <li>Daily Diary</li>
-  </ul>
+  </ul> -->
 
 
 ~ 👨‍💻 All of my projects are available [here.](https://github.com/jyotijoey?tab=repositories)
