@@ -61,7 +61,8 @@ I am a quick learner and I have proved it by learning to code in a very short ti
 
   <li>Daily Diary</li>
   </ul> -->
-
+  
+Other Info:-
 
 ~ 👨‍💻 All of my projects are available [here.](https://github.com/jyotijoey?tab=repositories)
 
