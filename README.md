@@ -8,7 +8,7 @@ I am a quick learner and I have proved it by learning to code in a very short ti
 
 <h3>Update</h3>
 
-Got the opportunity to gain enriching experience of working in a startup and gaining new skills like ***typeScript***, ***graphQL***, RabbitMQ, Jira, Slack, webpack, ***aggregation in mongoose*** and a number of new and interesting npm packages. Significant ones being:
+Got the opportunity to gain enriching experience of working in a startup and gaining new skills like ***typeScript***, ***graphQL***, Cypress, RabbitMQ, Jira, Slack, webpack, ***aggregation in mongoose*** and a number of new and interesting npm packages. Significant ones being:
 
 1. Cron: to schedule tasks
 2. compress.js: to compress images 
@@ -18,6 +18,7 @@ Got the opportunity to gain enriching experience of working in a startup and gai
 6. @slack/client: to dynamically communicate the messages generated in application in slack channel
 7. exceljs: to create excel sheets and download them
 8. razorpay: to make secure payments
+9. cypress: for automation testing
 
 <h2>Some of the interesting skills that I have picked up in last 6 months</h2>
 
