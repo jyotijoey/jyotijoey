@@ -26,9 +26,9 @@ Got the opportunity to gain enriching experience of working in a startup and gai
 2. Prioritizing tasks // Time management
 3. Working collaboratively with peers
 4. Debugging
-5. Writing clean code
+5. Writing clean, descriptive and scaleable code
 6. Working remotely and staying consistent and determined, even when things go north
-7. Communication, even with internet, when searching for a solution on stack overflow ;)
+7. Communication, even with the internet when searching for a solution on stack overflow ;)
 
 <h1>Some of the significant libraries, tools and technologies that I have used in my projects:-</h1>
 
