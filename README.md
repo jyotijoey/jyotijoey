@@ -6,7 +6,7 @@
 I can develop and deploy a fully functional web application from scratch using languages like ***HTML, JS and CSS***. I have built and will continue building my skills to be proficient at ***MERN stack development***. I have built 20 projects (and counting) using JS frameworks ***react.js*** and ***nodes.js*** combined with ***mongoDB*** database and ***express***, as per the project requirement. With my knowledge of ***hyper*** and multiple ***npm packages***, I can add different features and functionality in my web based app and deploy it on platforms like ***firebase and heroku***. 
 I am a quick learner and I have proved it by learning to code in a very short time span. 
 
-<h3>Update</h3>
+<h3>Update 1/20/2022</h3>
 
 Got the opportunity to gain enriching experience of working in a startup and gaining new skills like ***typeScript***, ***graphQL***, Cypress, RabbitMQ, Jira, Slack, webpack, ***aggregation in mongoose*** and a number of new and interesting npm packages. Significant ones being:
 
